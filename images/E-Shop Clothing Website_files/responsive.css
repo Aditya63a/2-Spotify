@@ -1,0 +1,86 @@
+@media (max-width: 1299px) {
+    /* HERO SECTION CSS */
+    .home .home-banner-1,
+    .home .home-banner-2 {
+        background-position: 80% center;
+        min-height: 55vh;
+    }
+
+    .home .home-banner .home-banner-text {
+        transform: translate(-75%, -50%);
+    }
+
+    /* OFFERS SECTION CSS */
+    .offers .offer-info .heading-bigger {
+        font-size: 3rem;
+    }
+
+    /* SPECIAL SECTION CSS */
+}
+
+@media (max-width: 991px) {
+    /* HERO SECTION CSS */
+    .home .home-banner .home-banner-text {
+        transform: translate(-65%, -50%);
+    }
+
+    /* SPECIAL SECTION CSS */
+
+    /* TESTIMONIAL SECTION CSS */
+}
+
+@media (max-width: 767px) {
+    /* HERO SECTION CSS */
+    .home .home-banner-1,
+    .home .home-banner-2 {
+        background-position: 60% center;
+        min-height: 45vh;
+    }
+
+    .home .home-banner .home-banner-text {
+        transform: translate(-50%, -50%);
+        text-align: center;
+        width: 100%;
+    }
+
+    .home .home-banner .home-banner-text h1 {
+        font-size: 3rem;
+    }
+
+    .home .home-banner .home-banner-text h2 {
+        font-size: 1.2rem;
+    }
+
+    .home .home-banner .home-banner-text .btn-danger {
+        padding: 0.5rem 1.5rem;
+    }
+
+    .home .slider-icon {
+        font-size: 2rem;
+    }
+
+    /* OFFERS SECTION CSS */
+    .offers .offer-info .heading-bigger {
+        font-size: 2rem;
+    }
+
+    .offers .offer-box .offer-info .offer-title-1 {
+        font-size: 0.9rem;
+    }
+
+    /* PRODUCTS SECTION CSS */
+
+    /* SPECIAL SECTION CSS */
+
+    /* TESTIMONIAL SECTION CSS */
+}
+
+@media (max-width: 330px) {
+    /* HERO SECTION CSS */
+    .home .home-banner .home-banner-text h2 {
+        font-size: 0.9rem;
+    }
+
+
+    /* PRODUCTS SECTION CSS */
+} 
